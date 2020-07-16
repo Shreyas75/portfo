@@ -1,0 +1,5 @@
+email, subject, message
+
+manotishreyas@gmail.com,nahi pata ,kaisa bhai kya haal chaal
+
+manotishreyas@gmail.com,romat,kyu ro rha hai
